@@ -1,13 +1,12 @@
 package IDLList;
 import java.util.ArrayList;
-
-
 /**
  * This class creates a doubly linked list with fast indexing
  * @author MarjanChowdhury
  */
 
-public class IDLList<E> {
+
+ public class IDLList<E> {
 	
 	/**
 	 * This class creates the nodes used in linked lists
