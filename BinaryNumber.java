@@ -3,6 +3,7 @@
  * @author Marjan Chowdhury
  */
 
+ 
 public class BinaryNumber {
 	// Data Fields
 	private int data[];
