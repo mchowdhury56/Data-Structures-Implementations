@@ -12,5 +12,3 @@ Maze.java - Recurisive implementation using a stack and backtracking to find all
 Treap.java - Implementation of a binary search tree that maintains heap properties. Junit test cases included.
 
 HuffmanTree.java - Implementation of a Huffman encoding tree. Junit test cases included.
-
-Below are a few data structures I implemented while I was a Course Assistant for a Data Structures course:
