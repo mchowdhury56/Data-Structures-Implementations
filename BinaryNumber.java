@@ -2,8 +2,6 @@
  * This class creates and adds binary numbers
  * @author Marjan Chowdhury
  */
-
- 
 public class BinaryNumber {
 	// Data Fields
 	private int data[];
